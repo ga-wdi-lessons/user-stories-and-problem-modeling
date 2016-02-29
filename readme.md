@@ -13,6 +13,8 @@ This is going to be a code-free "think like a programmer" class. Please close yo
 
 [Display this page.](examples/button.html)
 
+AM: Even though they should know how to do this, maybe replace "display" with the terminal command required to do this.
+
 #### Q. What are we looking at?
 > A button being pushed.
 
@@ -45,6 +47,8 @@ The more you try to stay in reality when coding, the more difficult coding can b
 Good developers strike a balance: they provide the bare minimum code necessary to create a sense of a specific reality.
 
 ## Exploration 2: Flying
+
+AM: Could this exploration use some framing, either before or after? As it reads, we jump from this to "Faking It" to "Beta Brite" and so on quickly. Although I'm guessing the flow and reasoning behind these exercises will be natural during the actual class.
 
 [Display this page.](examples/flying.html)
 
@@ -138,6 +142,8 @@ Now I'll start moving my user stories toward being code stories. To do this, I'l
 - If a user story is "nothing happens", it has no code story. There is no code for "nothing happens".
 - My instinct to make a div go from "has text" to "no text" is to delete the text. But deleting and then replacing data is time-consuming and annoying. Why not just hide the div's text?
 - Similarly, my instinct to make a click go from "does something" to "does nothing" is to remove its event listener. But deleting and replacing event listeners is time-consuming and annoying. Why not just put an `if` inside the event listener so it always fires, but only does stuff under certain conditions?
+
+AM: Liking these tips!
 
 With this in mind, my user stories become:
 
