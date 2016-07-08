@@ -339,7 +339,7 @@ When we start to write user stories, break these user stories in these three cat
 
 > 15 minutes exercise.
 
-For Project 1 you will be creating one of four games: Trivia, Flashcards, Concentration and War. Your task now is to create user stories for one of those four and separate them into bronze, silver and gold categories.
+For Project 1 you will be creating one of four games: Trivia, Flashcards, Hangman, Tower of Hanoi, Simon. Your task now is to create user stories for one of those four and separate them into bronze, silver and gold categories.
 
 #### Bonus
 
