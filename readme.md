@@ -339,7 +339,7 @@ When we start to write user stories, break these user stories in these three cat
 
 > 15 minutes exercise.
 
-For Project 1 you will be creating one of four games: Trivia, Flashcards, Hangman, Tower of Hanoi, Simon. Your task now is to create user stories for one of those four and separate them into bronze, silver and gold categories.
+For Project 1 you will be creating one of five games: Trivia, Flashcards, Hangman, Tower of Hanoi, or Simon. Your task now is to create user stories for one of those five and separate them into bronze, silver and gold categories.
 
 ## You Do: Boiling It Down (10 minutes / 1:55)
 
