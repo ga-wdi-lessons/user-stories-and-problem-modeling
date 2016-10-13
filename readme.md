@@ -168,7 +168,7 @@ Once again with your table, discuss...
 
 User stories describe every sequence of events a user may encounter when working with your app.
 
-You brainstorm a bunch of user stories, and then select the ones that are most essential. When a user can complete all of these stories using your app, your app is considered complete.
+Through brainstorming, you arrive at a set of user stories, and then select those that are most essential. When a user can complete all of these stories using your app, your app is considered complete.
 
 Then, you can create additional user stories.
 
@@ -266,7 +266,7 @@ When a div is clicked
 
 These are some keywords you might find yourself writing in your user stories and pseudocode. I've taken a stab at what their counterparts in "real" code might be.
 
-Take these with a grain of salt: there are many, many more ways to "hide" something than with `display:hide`.
+Take these with a grain of salt: these are just singular examples of code that could accomplish a certain English-language described result. For example, there are many, many more ways to "hide" something than with `display:none`.
 
 | English | Code |
 | --- | --- |
@@ -341,7 +341,17 @@ When we start to write user stories, break these user stories in these three cat
 
 For Project 1 you will be creating one of four games: Trivia, Flashcards, Hangman, Tower of Hanoi, Simon. Your task now is to create user stories for one of those four and separate them into bronze, silver and gold categories.
 
-#### Bonus
+## You Do: Boiling It Down (10 minutes / 1:55)
+
+Recall that in the video, the speaker asserts that your MVP is 8 times too big, or that you take what you think your MVP, and cut it in half three times.
+
+Spend a few minutes deciding on how you can cut your bronze features by once. You can always promote these to silver.
+
+Next, cut this halved feature-set by a half. If you don't have enough features to do this, try to simplify and break down your features.
+
+Finally, see if you can halve your MVP feature-set for a third time.
+
+## [Project 1](https://github.com/ga-wdi-exercises/project1)
 
 Start doing the following...
 * Draw out a wireframe(s).
